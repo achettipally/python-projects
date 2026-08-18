@@ -27,6 +27,4 @@ Data Analyst specializing in Python, Power BI, Looker Studio, SQL, and automatio
 -  Stacked Charts
 -  Line Charts
 -  Bar Charts
-### 2. Looker Studio Financial Report
-- Custom calculated fields
-- Interactive drill-downs
+
